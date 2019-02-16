@@ -1,0 +1,26 @@
+[Unit]
+Description=FIAX's distributed currency daemon
+After=network.target
+
+[Service]
+User=fiax
+Group=fiax
+
+Type=forking
+PIDFile=/var/lib/fiaxd/fiaxd.pid
+
+ExecStart=/usr/bin/fiaxd -daemon -pid=/var/lib/fiaxd/fiaxd.pid \
+          -conf=/etc/fiax/fiax.conf -datadir=/var/lib/fiaxd
+
+ExecStop=-/usr/bin/fiax-cli -conf=/etc/fiax/fiax.conf \
+         -datadir=/var/lib/fiaxd stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target
