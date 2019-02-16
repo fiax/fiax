@@ -15,28 +15,9 @@ More information at [fiax.org](http://www.fiax.org) Visit our ANN thread at [Bit
 <tr><td>Algo</td><td>Quark</td></tr>
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
-<tr><td>Max Coin Supply (PoW Phase)</td><td>43,199,500 FIAX</td></tr>
+<tr><td>Max Coin Supply (PoW Phase)</td><td>333,333,333 FIAX</td></tr>
 <tr><td>Max Coin Supply (PoS Phase)</td><td>Infinite</td></tr>
-<tr><td>Premine</td><td>60,000 FIAX*</td></tr>
-</table>
-
-*60,000 FIAX Premine was burned in block [279917](http://www.presstab.pw/phpexplorer/FIAX/block.php?blockhash=206d9cfe859798a0b0898ab00d7300be94de0f5469bb446cecb41c3e173a57e0)
-
-### Reward Distribution
-
-<table>
-<th colspan=4>Genesis Block</th>
-<tr><th>Block Height</th><th>Reward Amount</th><th>Notes</th></tr>
-<tr><td>1</td><td>60,000 FIAX</td><td>Initial Pre-mine, burnt in block <a href="http://www.presstab.pw/phpexplorer/FIAX/block.php?blockhash=206d9cfe859798a0b0898ab00d7300be94de0f5469bb446cecb41c3e173a57e0">279917</a></td></tr>
-</table>
-
-### PoW Rewards Breakdown
-
-<table>
-<th>Block Height</th><th>Masternodes</th><th>Miner</th><th>Budget</th>
-<tr><td>2-43200</td><td>20% (50 FIAX)</td><td>80% (200 FIAX)</td><td>N/A</td></tr>
-<tr><td>43201-151200</td><td>20% (50 FIAX)</td><td>70% (200 FIAX)</td><td>10% (25 FIAX)</td></tr>
-<tr><td>151201-259200</td><td>45% (22.5 FIAX)</td><td>45% (22.5 FIAX)</td><td>10% (5 FIAX)</td></tr>
+<tr><td>Premine</td><td>13333333.32 FIAX*</td></tr>
 </table>
 
 ### PoS Rewards Breakdown
