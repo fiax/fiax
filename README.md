@@ -23,10 +23,10 @@ More information at [fiax.org](http://www.fiax.org) Visit our ANN thread at [Bit
 ### PoS Rewards Breakdown
 
 <table>
-<th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes & Stakers</th><th>Budget</th>
-<tr><td>Phase 1</td><td>10001-50001</td><td>50 FIAX</td><td>80% (45 FIAX)</td><td>10% (5 FIAX)</td></tr>
-<tr><td>Phase 2</td><td>50002-100001</td><td>45 FIAX</td><td>80% (40.5 FIAX)</td><td>10% (4.5 FIAX)</td></tr>
-<tr><td>Phase 3</td><td>100002-500005</td><td>40 FIAX</td><td>80% (36 FIAX)</td><td>10% (4 FIAX)</td></tr>
-<tr><td>Phase 4</td><td>500006-1000001</td><td>35 FIAX</td><td>80% (31.5 FIAX)</td><td>10% (3.5 FIAX)</td></tr>
-<tr><td>Phase 5</td><td>1000002-Infinite</td><td>30 FIAX</td><td>80% (27 FIAX)</td><td>10% (3 FIAX)</td></tr>
+<th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes </th><th>Stakers</th>
+<tr><td>Phase 1</td><td>10001-50001</td><td>50 FIAX</td><td>80% (45 FIAX)</td><td>20% (10 FIAX)</td></tr>
+<tr><td>Phase 2</td><td>50002-100001</td><td>45 FIAX</td><td>80% (40.5 FIAX)</td><td>20% (9 FIAX)</td></tr>
+<tr><td>Phase 3</td><td>100002-500005</td><td>40 FIAX</td><td>80% (36 FIAX)</td><td>20% (8 FIAX)</td></tr>
+<tr><td>Phase 4</td><td>500006-1000001</td><td>35 FIAX</td><td>80% (31.5 FIAX)</td><td>20% (7 FIAX)</td></tr>
+<tr><td>Phase 5</td><td>1000002-Infinite</td><td>30 FIAX</td><td>80% (27 FIAX)</td><td>20% (6 FIAX)</td></tr>
 </table>
