@@ -3,7 +3,7 @@ FIAX Core integration/staging repository
 
 [![Build Status](https://travis-ci.org/FIAX-Project/FIAX.svg?branch=master)](https://travis-ci.org/FIAX-Project/FIAX) [![GitHub version](https://badge.fury.io/gh/FIAX-Project%2FFIAX.svg)](https://badge.fury.io/gh/FIAX-Project%2FFIAX)
 
-FIAX is an open source crypto-currency focused on fast private transactions with low transaction fees & environmental footprint.  It utilizes a custom Proof of Stake protocol for securing its network and uses an innovative variable seesaw reward mechanism that dynamically balances 90% of its block reward size between masternodes and staking nodes and 10% dedicated for budget proposals. The goal of FIAX is to achieve a decentralized sustainable crypto currency with instant full-time private transactions, fair governance and community intelligence.
+FIAX is an open source crypto-currency focused on fast private transactions with low transaction fees & environmental footprint.  It utilizes a custom Proof of Stake protocol for securing its network and uses an innovative variable seesaw reward mechanism that dynamically balances 100% of its block reward size between masternodes and staking nodes. The goal of FIAX is to achieve a decentralized sustainable crypto currency with instant full-time private transactions, fair governance and community intelligence.
 - Anonymized transactions using the [_Zerocoin Protocol_](http://www.fiax.org/zfiax).
 - Instant transactions featuring guaranteed zero confirmation transactions, _SwiftX_.
 - Decentralized blockchain voting utilizing Masternode technology to form a DAO. The blockchain will distribute monthly treasury funds based on successful proposals submitted by the community and voted on by the DAO.
